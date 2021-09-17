@@ -7,4 +7,4 @@
 // export * from './lib/synlab-library.module';
 
 export * from './lib/button/button.module';
-export * from './lib/button/button.directive';
+export * from './lib/button/button.component';
